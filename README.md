@@ -1,4 +1,4 @@
-# feed-forward-neural-network
+# Feedforward neural network
 Feedforward neural network written in Python.
 
 # Todo
