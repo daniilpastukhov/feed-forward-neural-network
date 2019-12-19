@@ -2,6 +2,7 @@
 Feedforward neural network written in Python.
 
 # Todo
+- Add documentation
 - Early stopping
 - Grid search
 - Different loss functions support
